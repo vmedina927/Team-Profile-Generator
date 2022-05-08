@@ -35,3 +35,5 @@ npm run test
 ## Demo Functionality
 
 Link to demo - [ScreenRecording](https://drive.google.com/file/d/1yNHzakG-KRcT3vWUImf5M0tF5PMb2Qz_/view)
+
+![image](assets/image/TeamProfileGenerator2.png)
