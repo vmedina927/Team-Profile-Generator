@@ -30,7 +30,7 @@ Contact me at vmedina927@gmail.com
 ## Tests 🧪
 To run tests, run these commands:
 ```
-npm test
+npm run test
 ```
 ## Demo Functionality
 
